@@ -23,3 +23,7 @@
 - ## [Day 4 : Project Development - Continued](/Week3/)
   
   - Discussed the topics on previous projects, remaining to be covered.
+
+- ## [Day 5: Project Development - Finished](/Week3/)
+
+  - Showcased and reviewed the different projects made by the attendees during the bootcamp.
