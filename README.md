@@ -1,4 +1,4 @@
-# [Programming Skills Bootcamp](https://github.com/priteshhirpara17/programming-skills-bootcamp) - By [Vrunda Technologies](http://www.vrundatechnologies.com)
+# [Programming Skills Bootcamp](https://github.com/priteshhirpara17/programming-skills-bootcamp) - By [Vrunda Technologies](http://www.vrundatechnologies.com) all the code and Readme files in this repo are made by [Ishan](https://github.com/Ishan3450)
 
 Welcome to the Programming Skills Bootcamp! This repository contains code and projects for the bootcamp, which is designed to teach programming skills to students. The bootcamp covers different programming languages and technologies, and includes projects and exercises to help students develop their skills.
 
